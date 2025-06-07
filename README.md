@@ -8,6 +8,8 @@ This project offers a comprehensive analysis of the T20 World Cup 2022, utilizin
 
 - Bowling summaries for all players
 
+Link for an overview of the dashboard: https://drive.google.com/file/d/1apxx63wQh2kC6ElYoTBaILfO8PPGxj2p/view?usp=sharing
+
 
 The data was preprocessed in Python using the Pandas library for cleaning, transformation, and preparation for visualization.
 
